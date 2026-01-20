@@ -4,10 +4,9 @@
 ![Language](https://img.shields.io/badge/Language-C%23-blue?style=flat&logo=csharp)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 
-<p align="center">
+<p align="left">
   <img width="870" height="489" alt="Screenshot 2026-01-16 134158" src="https://github.com/user-attachments/assets/d62c8650-21b2-4a9a-8943-03514d7fbccb" />
   <img width="657" height="416" alt="Screenshot 2026-01-16 134404" src="https://github.com/user-attachments/assets/2d03c196-7e5b-4c24-bc73-fa86f6df4c85" />
-  <img width="649" height="366" alt="Screenshot 2026-01-16 134324" src="https://github.com/user-attachments/assets/07168f2d-05e7-4856-ba4c-995ecbe7c9a2" />
 </p>
 
 ## About
