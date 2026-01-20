@@ -1,6 +1,6 @@
 # Anti-Bullying Adventure
 
-![Unity](https://img.shields.io/badge/Unity-2021.3.14f1-black?style=flat&logo=unity)
+![Unity](https://img.shields.io/badge/Unity-2022.3.8f1-black?style=flat&logo=unity)
 ![Language](https://img.shields.io/badge/Language-C%23-blue?style=flat&logo=csharp)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 
@@ -10,14 +10,14 @@
 </p>
 
 ## About
-A technical simulation exploring Craig Reynolds' 'Boids' algorithm to replicate organic group movement. Unlike standard pathfinding, this project implements raw **Vector Math** to calculate steering forces. I engineered a **Composite Behavior** System that blends three core rules: **Alignment, Cohesion, and Separation (Avoidance)**, resulting in fluid, lifelike swarm patterns.
+A narrative game designed for PC to raise awareness about school bullying among teenagers (ages 12-15). The game utilizes **2D platforming mechanics** combined with **interactive storytelling** to simulate real-world bullying scenarios, educating players on prevention and emotional impact.
 
 ## How to Run:
 **Option 1: Play Build**
-1.  Download & extract `Flocking Game.zip`.
-2.  Open `Flocking Game.exe`.
+1.  Download the `Rise Againts Bullying` folder.
+2.  Open `Rise Againts Bullying.exe`.
 
 **Option 2: Open Source Code**
 1.  Clone this repository.
-2.  Open project in **Unity 2021.3.14f1**.
-3.  Open Scene: `Scenes/MainScene`.
+2.  Open project in **Unity 2022.3.8f1**.
+3.  Open Scene: `Scenes/Menu`.
